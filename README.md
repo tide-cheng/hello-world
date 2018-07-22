@@ -1,3 +1,3 @@
 # hello-world
-** Just a test**
+**Just a test**
 > 练习
